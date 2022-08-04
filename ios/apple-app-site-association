@@ -1,0 +1,12 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "468D3WG8AR.com.app.alma",
+                "paths": [ "/action/*"]
+            }
+        ]
+    }
+}
+

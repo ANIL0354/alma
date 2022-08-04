@@ -1,0 +1,102 @@
+{
+  "project_info": {
+    "project_number": "925536139085",
+    "project_id": "alma-app-327505",
+    "storage_bucket": "alma-app-327505.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925536139085:android:f4a8c84a5a465295b5e904",
+        "android_client_info": {
+          "package_name": "com.app.almaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925536139085-0n9coudtikhu4tpjeqrv06jv8kk82722.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.almaapp",
+            "certificate_hash": "ef2a1806a7d925350cf5546acb0b305b2b72fd3e"
+          }
+        },
+        {
+          "client_id": "925536139085-7878eqa3ugd4h4lec82ukn99e95fv8n5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.almaapp",
+            "certificate_hash": "a615f8403b826616d0016651c06da6f9ad0956f5"
+          }
+        },
+        {
+          "client_id": "925536139085-94jb09veermphe11sv7k29cec06elt9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.almaapp",
+            "certificate_hash": "4a696e95ea45fa96f1f49596a9e14acc60ee9443"
+          }
+        },
+        {
+          "client_id": "925536139085-k7unt2kdqbhnnsglko92b22p87e5mf2d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.almaapp",
+            "certificate_hash": "9432dc19e3ea5351429230dd0839769a62ee9ab9"
+          }
+        },
+        {
+          "client_id": "925536139085-o1ma0le8pjmmdp0k23geqlji38rj01hm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.almaapp",
+            "certificate_hash": "d3aa83c3cbd54bce7c1a70d6b843a2e8388b0ab5"
+          }
+        },
+        {
+          "client_id": "925536139085-oqjpb4tl5ar4vldaq3fsetnrllgovfep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.almaapp",
+            "certificate_hash": "e5a7a68b418c55c065bdebb0806cd8a58230750a"
+          }
+        },
+        {
+          "client_id": "925536139085-trl764m2mpa4bee6d6duen9bd5d4or4r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.almaapp",
+            "certificate_hash": "408d5973a7b66b6e7765d17596bb400dd03cc98e"
+          }
+        },
+        {
+          "client_id": "925536139085-vpbadsqjlktu0iehnkb9lhv5l33mk3pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAUpW08saQbOVfZJYaFb6V2QATojUTHMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925536139085-vpbadsqjlktu0iehnkb9lhv5l33mk3pc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "925536139085-tdmpiroba5gitvabo2uflb5c8ds5hoa2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.alma"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

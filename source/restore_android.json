@@ -1,0 +1,18 @@
+[
+  {
+    "autoRenewingAndroid": true,
+    "developerPayloadAndroid": "",
+    "isAcknowledgedAndroid": true,
+    "obfuscatedAccountIdAndroid": "",
+    "obfuscatedProfileIdAndroid": "",
+    "orderId": "GPA.3398-4291-5581-29261",
+    "packageNameAndroid": "com.app.almapp",
+    "productId": "444",
+    "purchaseStateAndroid": 1,
+    "purchaseToken": "lnminckkjokgmglipegnceeh.AO-J1OwjYKzyL1k9dCaAH6qiFdcxhfooh4Tbs5NbUk012rZ_tLZbSOORml5NrJ0rl_4hjRJrG44bgRYz9pJRbGAmERuzqwzonw",
+    "signatureAndroid": "a43aDE5KvZE5CndY5ze8iBQAn1hYNgBEIPHL/o3QPMunL8vTyqO5k5BaDoRGew/qsWBy2ZBXMHHpHuY6HqBralnbnnYJTQl3nr9MQ31ZXbn7qK7UkB01RYpWDgfn472jSzN7Bsmzycg/NcNcj/0k3N0Xu3lkhXkEveVMk4mZC0GpD3EX3mnMIZhjsSvGq79i2iQl/0AZOzfeLzFzPEJ8lA9OuYYN4g8MIU6mhuX/q+eQEXXwya9V3r1NXRrCHQMHV1AGFojad1/l6URyUyCPmJsLTLHAlBJV4wFlE02tTxHec8cFoc9tXMRYa/r/uYESdvYZE9AQNfuwmrDfC04/Lg==",
+    "transactionDate": 1614976657062,
+    "transactionId": "GPA.3398-4291-5581-29261",
+    "transactionReceipt": "{\"orderId\":\"GPA.3398-4291-5581-29261\",\"packageName\":\"com.app.almapp\",\"productId\":\"444\",\"purchaseTime\":1614976657062,\"purchaseState\":0,\"purchaseToken\":\"lnminckkjokgmglipegnceeh.AO-J1OwjYKzyL1k9dCaAH6qiFdcxhfooh4Tbs5NbUk012rZ_tLZbSOORml5NrJ0rl_4hjRJrG44bgRYz9pJRbGAmERuzqwzonw\",\"autoRenewing\":true,\"acknowledged\":true}"
+  }
+]

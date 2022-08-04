@@ -1,0 +1,28 @@
+{
+  "identifier" : "618010E7",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "4033680C",
+      "localizations" : [
+
+      ],
+      "name" : "Subscriptions",
+      "subscriptions" : [
+
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}

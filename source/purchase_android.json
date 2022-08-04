@@ -1,0 +1,16 @@
+{
+  "autoRenewingAndroid": true,
+  "dataAndroid": "{\"orderId\":\"GPA.3375-4323-6457-66127\",\"packageName\":\"com.app.almapp\",\"productId\":\"444\",\"purchaseTime\":1614973214804,\"purchaseState\":0,\"purchaseToken\":\"nobfbonmpjbbbjhbkobfobnl.AO-J1OzzELWgoOkd8VBg-hH_agTHue-Y6R01y9hPaakkOczPf9dYyW9Jk_bu0b3veudWGCZjB6V9GPTs-_L1Wymh0Efi8TgKaw\",\"autoRenewing\":true,\"acknowledged\":false}",
+  "developerPayloadAndroid": "",
+  "isAcknowledgedAndroid": false,
+  "obfuscatedAccountIdAndroid": "",
+  "obfuscatedProfileIdAndroid": "",
+  "packageNameAndroid": "com.app.almapp",
+  "productId": "444",
+  "purchaseStateAndroid": 1,
+  "purchaseToken": "nobfbonmpjbbbjhbkobfobnl.AO-J1OzzELWgoOkd8VBg-hH_agTHue-Y6R01y9hPaakkOczPf9dYyW9Jk_bu0b3veudWGCZjB6V9GPTs-_L1Wymh0Efi8TgKaw",
+  "signatureAndroid": "DwuTaSRzsR45eaV682qAXOsjBHgBXMAv/hNrAPDDw5z8rfSgIpPzYxL/TTMeH2H+ocH3nyj0E7ZW/90p/pbT9gNJJr1QG3gfKFvB6fnUdrg/FrzZFficrtBjRj3hO1l7UctqCQf0vcSPrXzCbw32XiAdXgEMnsvnuhmc8ugD85WCr30lXy9uQqAV7OdMhHnW/xDJBLea+ZQT6FMRa3z6fEWvkhsNopDvplvbexPRxcp14waoiIinfghlpo7A7Itqwq0t44yj6dwRmZNrXXXfkdhGiOaV2uTWrIr0MxJA97/4xp5avb5VVDE5QI8siv7XE/iz24U2IVpeX6IAg0uLBg==",
+  "transactionDate": 1614973214804,
+  "transactionId": "GPA.3375-4323-6457-66127",
+  "transactionReceipt": "{\"orderId\":\"GPA.3375-4323-6457-66127\",\"packageName\":\"com.app.almapp\",\"productId\":\"444\",\"purchaseTime\":1614973214804,\"purchaseState\":0,\"purchaseToken\":\"nobfbonmpjbbbjhbkobfobnl.AO-J1OzzELWgoOkd8VBg-hH_agTHue-Y6R01y9hPaakkOczPf9dYyW9Jk_bu0b3veudWGCZjB6V9GPTs-_L1Wymh0Efi8TgKaw\",\"autoRenewing\":true,\"acknowledged\":false}"
+}

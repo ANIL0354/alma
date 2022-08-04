@@ -1,0 +1,9 @@
+{
+    "direction": "ltr",
+    "sent_vip_request": "You sent a request to add your partner to the VIP",
+    "you_add_your_partner_to_vip": "Your partner has been added to VIP",
+    "active_for_premium_users": "Only premium users may add to VIP",
+    "you_report_on_user": "The user has been reported",
+    "your_partner_accept_to_vip_request": "Cheers! Your partner has approved you",
+    "your_partner_want_to_add_you_vip": "Your partner wants to add you to the VIP"
+}

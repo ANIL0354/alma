@@ -1,0 +1,101 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@avigmaproject 
+Branch master was renamed to main.
+facebook
+/
+react-native
+Public
+3.7k
+98.4k
+21.3k
+Code
+Issues
+1.7k
+Pull requests
+298
+Actions
+Projects
+3
+Wiki
+Security
+Insights
+react-native/template/_gitignore
+@Ghamza-Jd
+Ghamza-Jd Update _gitignore - Remove .hprof (#31679)
+…
+Latest commit 8092779 on Jun 11
+ History
+ 6 contributors
+@fson@pvinis@karanjthakkar@Ghamza-Jd@cpojer@bondehagen
+60 lines (52 sloc)  821 Bytes
+   
+# OSX
+#
+.DS_Store
+
+# Xcode
+#
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.xccheckout
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
+
+# Android/IntelliJ
+#
+build/
+.idea
+.gradle
+local.properties
+*.iml
+*.hprof
+
+# node.js
+#
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# BUCK
+buck-out/
+\.buckd/
+*.keystore
+!debug.keystore
+
+# fastlane
+#
+# It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
+# screenshots whenever they are needed.
+# For more information about the recommended setup visit:
+# https://docs.fastlane.tools/best-practices/source-control/
+
+*/fastlane/report.xml
+*/fastlane/Preview.html
+*/fastlane/screenshots
+
+# Bundle artifact
+*.jsbundle
+
+# CocoaPods
+/ios/Pods/
+*.bin
+executionHistory.bin 
+
+# android/.gradle/6.1.1/executionHistory/executionHistory.bin
